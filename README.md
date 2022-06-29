@@ -5,8 +5,7 @@
 
 ## Built With
 
-- HTML
-- CSS
+- HTML/CSS
 
 
 ## Getting Started
@@ -14,23 +13,9 @@
 **Setting up the "Hello Microverse task**
 
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Promise Uka**
 
 - GitHub: [@githubhandle](https://github.com/Ukaypromise/)
 - Twitter: [@twitterhandle](https://twitter.com/PromiseUkay)
@@ -41,7 +26,6 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
